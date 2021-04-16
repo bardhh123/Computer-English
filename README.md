@@ -2,7 +2,7 @@
 
 This is 25180523皇甫秉文's marketdown for computer english.
 
-如果你想去第二个md，点击[它](https://github.com/bardhh123/Computer-English/blob/master/second.md).
+如果你想去第二个md，点击[它](./second.md).
 ***
 ## 图片
 #### 目录中的图片
